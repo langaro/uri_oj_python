@@ -1,0 +1,1 @@
+print("{0:.0f} minutos".format(float(input())*2))
