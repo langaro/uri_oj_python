@@ -8,7 +8,6 @@ print(inicio)
 print(fim)
 
 if int(inicio) == 0 and int(fim) == 0:
-    print('oi');
     duracao = 24;
 else:
     print('tchau')
