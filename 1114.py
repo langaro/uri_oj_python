@@ -1,4 +1,5 @@
 #https://www.urionlinejudge.com.br/judge/pt/problems/view/1114
+#Resolvido através de uma simpels recursividade
 
 senhaPadrao = 2002
 
