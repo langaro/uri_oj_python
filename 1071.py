@@ -1,6 +1,8 @@
 x = int(input())
 y = int(input())
 
+#da pra melhorar umas 500 vezes
+
 if (x > y):
     inicio = x;
     fim = y;
